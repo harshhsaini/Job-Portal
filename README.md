@@ -18,8 +18,8 @@ A modern, role-based job portal web application built with Spring Boot 3 and Spr
 
 ## 🛠 Tech Stack
 
-- **Backend**: Java 17, Spring Boot 3, Spring MVC  
-- **Frontend**: Thymeleaf, HTML/CSS, Bootstrap  
+- **Backend**: Java 21, Spring Boot 3, Spring MVC  
+- **Frontend**: Thymeleaf, HTML/CSS, JS, Bootstrap  
 - **Database**: MySQL, Hibernate/JPA  
 - **Security**: Spring Security (BCrypt)  
 
@@ -29,7 +29,7 @@ A modern, role-based job portal web application built with Spring Boot 3 and Spr
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/job-portal.git
+git clone https://github.com/harshhsaini/job-portal.git
 cd job-portal
 ```
 
